@@ -1,0 +1,5 @@
+0.0.0.0 www.kopipait.store
+0.0.0.0 eu19.adsy.ink
+0.0.0.0 s.optnx.com
+0.0.0.0 meegreelebay.net
+0.0.0.0 ptetaweempou.net
